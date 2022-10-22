@@ -1,4 +1,5 @@
 const http = require('http');
+// passer à const = https. il faudra un certificat SSL
 const app = require('./app');
 
 const normalizePort = val => {
