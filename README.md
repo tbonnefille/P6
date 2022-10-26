@@ -1,5 +1,5 @@
 
-3 Code à l'adresse suivante:
+Code à l'adresse suivante:
 
 https://github.com/tbonnefille/P6/tree/master
 
